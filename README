@@ -1,0 +1,5 @@
+Basebox created from fresh OS with the following steps:
+ - run base_setup.cmd (This runs base_setup.ps1 and sets WinRb recommended settings)
+ - install guest tools
+ - rename Administrator user
+ - set pagefile to 512mb
